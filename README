@@ -1,0 +1,13 @@
+# Caméra Intelligente - Projet de SII 2018
+
+## Instructions
+
+Le projet C++ utilise le système CMake.
+
+```sh
+mkdir build && cd build
+cmake <chemin_projet>
+```
+
+Cependant, on pourra aussi utiliser le script Python à condition que le module
+`opencv` soit installé.
